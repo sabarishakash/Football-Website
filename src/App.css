@@ -36,3 +36,72 @@
     transform: rotate(360deg);
   }
 }
+.bit{
+  color: brown;
+}
+.jk{
+  background-color: wheat;
+  
+}
+.nb{
+  background-image: url("./Images/stadium-3d-rendering-260nw-735656077.webp");
+  background-size: cover;
+  height: 180vh;
+  
+}
+.sim40{
+  background-image:url("./Images/stadium-3d-rendering-260nw-735656077.webp");
+  background-size: cover;
+  height: 150vh;
+  margin-top: 90px;
+  
+}
+@media (max-width:320px){
+  .sim40{
+    height: 42vh;
+    background-image: url("./Images/stadium-3d-rendering-260nw-735656077.webp");
+
+  }
+}
+
+@media (min-width:768px) and (max-width:1023px){
+  .sim40{
+   
+    background-image: url("./Images/stadium-3d-rendering-260nw-735656077.webp");
+
+  }
+}
+@media (min-width:1024px){
+  .sim40{
+   
+    background-image: url("./Images/stadium-3d-rendering-260nw-735656077.webp");
+
+  }
+}
+.ve{
+  margin-top: 30px;
+  color: orangered;
+  font-size: 28px;
+
+
+}
+
+.gt{
+  font-size: 20px;
+  color: white;
+}
+.gi{
+  width: 200px;
+
+}
+.ny{
+  margin-top: 100px;
+}
+.ji{
+  background-color: lemonchiffon;
+  transition: 1s;
+}
+.ji:hover{
+  background-color: white;
+  transform: translateY(-20px);
+}
