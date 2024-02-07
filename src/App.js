@@ -1,5 +1,5 @@
 import img from "./Images/MFC LOGO.jpeg"
-import img1 from "../src/Images/gradient-football-field-background_23-2149013355.avif"
+
 
 import img2 from "../src/Images/download.jpg"
 import img3 from "../src/Images/FC-Madras-ALC-736x492.jpg"
